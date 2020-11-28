@@ -1,13 +1,4 @@
-/**
- *
- * HTML5 Audio player with playlist
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2012, Script Tutorials
- * http://www.script-tutorials.com/
- */
+
 jQuery(document).ready(function() {
 
     // inner variables
